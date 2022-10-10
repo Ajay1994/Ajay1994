@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajay1994
-- 👀 I’m interested in Computer Vision and Sparse NN.
-- 🌱 I’m currently learning how neurons learn.
+- 👀 I’m interested in Efficient Learning and Sparse Neural Networks.
+- 🌱 I’m currently a PhD Student in VITA@UT Austin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ajayjaiswal@utexas.edu
 
